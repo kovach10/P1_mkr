@@ -8,3 +8,6 @@ There were 7 items in your list. Here they are in random order:
 5. Сарваді Дарина Богданівна – пл. Ст
 6. Ковач Владислав Васильович – пл.
 7. Сніцаренко Юрій Геннадійович
+
+
+Send mail to yurii.andrashko@uzhnu.edu.ua
